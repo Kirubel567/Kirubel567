@@ -32,7 +32,7 @@ I’m passionate about building web applications, solving algorithm challenges, 
 
 Here are some projects I’ve built while learning :
 
-- **[LeetCode Solutions](https://github.com/KirubelWubet/leetcode-solutions)**  
+- **[LeetCode Solutions](https://github.com/Kirubel567/leetcode-solutions)**  
   Solved algorithm and data structure challenges with detailed explanations.
 
 ---
@@ -46,14 +46,13 @@ Here are some projects I’ve built while learning :
 
 ## 📈 GitHub Stats
 
-![Kirubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirubelWubet&show_icons=true&theme=radical)
+![Kirubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirubel567&show_icons=true&theme=radical)
 
 ---
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubel-wubet)  
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KirubelWubet)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubel-alebel-25871b311) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirbel.wubet1996@gmail.com)
 
 ---
